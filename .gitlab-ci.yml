@@ -1,6 +1,5 @@
 stages:
   - build
-  - deploy
 
 variables:
   GIT_STRATEGY: none  # Prevent GitLab from trying to pull its own repo
